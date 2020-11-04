@@ -18,5 +18,8 @@
     <ClCompile Include="01 成员变量和成员函数分开存储.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="02 this指针的使用.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
