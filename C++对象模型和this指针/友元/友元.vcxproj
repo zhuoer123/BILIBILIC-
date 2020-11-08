@@ -139,7 +139,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="全局函数做友元.cpp" />
+    <ClCompile Include="01 全局函数做友元.cpp" />
+    <ClCompile Include="02 类做友元.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
