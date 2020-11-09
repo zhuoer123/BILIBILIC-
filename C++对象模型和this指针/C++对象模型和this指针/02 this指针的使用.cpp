@@ -1,12 +1,15 @@
 //#include<iostream>
 //using namespace std;
 //
+//当形参和变量同名时，可用this指针区分
+//在类中的非静态成员函数返回对象自身，可使用 return * this
+
 //class Person
 //{
 //public:
 //	Person(int age)
 //	{
-//		//this指针指向 被调用的成员函数 所属的对象
+//		//this指针指向 被调用的成员函数 所属的对象  this 指向p1
 //		this->age = age;
 //	}
 //
