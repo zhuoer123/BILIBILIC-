@@ -141,6 +141,8 @@
   <ItemGroup>
     <ClCompile Include="01 基本语法.cpp" />
     <ClCompile Include="02 继承方式.cpp" />
+    <ClCompile Include="03 继承中的对象模型.cpp" />
+    <ClCompile Include="04 构造与析构顺序.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
