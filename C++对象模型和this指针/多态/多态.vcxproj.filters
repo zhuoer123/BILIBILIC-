@@ -16,7 +16,10 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="01 多态的基本语法.cpp">
-      <Filter>头文件</Filter>
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="02 多态案例- 计算器实现.cpp">
+      <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
