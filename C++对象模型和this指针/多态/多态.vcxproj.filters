@@ -21,5 +21,11 @@
     <ClCompile Include="02 多态案例- 计算器实现.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="03 纯虚函数和抽象类.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="04 多态案例2-制作饮品.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
