@@ -27,5 +27,8 @@
     <ClCompile Include="04 多态案例2-制作饮品.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="05 虚析构与纯虚析构.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
