@@ -142,6 +142,8 @@
   <ItemGroup>
     <ClCompile Include="01 文本文件-写文件.cpp" />
     <ClCompile Include="02 文本文件-读文件.cpp" />
+    <ClCompile Include="03 二进制文件-写文件.cpp" />
+    <ClCompile Include="04 二进制文件-读文件.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
